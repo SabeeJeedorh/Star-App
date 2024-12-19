@@ -1,7 +1,3 @@
-/*
-  Josh's Custom CSS Reset
-  https://www.joshwcomeau.com/css/custom-css-reset/
-*/
 *,
 *::before,
 *::after {
@@ -46,7 +42,6 @@ h6 {
   isolation: isolate;
 }
 
-/* Basic theme styles */
 body {
   padding: 16px;
   font-family: 'Wotfard', sans-serif;
